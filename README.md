@@ -1,4 +1,4 @@
 481hw2
 ======
 
-eecs 481 hw 2
+homework 2 for EECS 481
